@@ -2,15 +2,17 @@
 
 <h1 align="center">Hi 👋, I'm Shatabhisha Baidya</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India.</h3>
+
+
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149375793.jpg">
 
--  🔭 I am honing my dev and Java skills.
-
-- 👯 I’m looking to collaborate on in web dev projects
-
-- 🤝 I’m looking for help with Projects and learning paths.
-
-- 🌱 I’m currently learning learning Java Full Stack Development.
+- 🌟 Passionate about technology and continuous learning.
+  
+- 🔧 Building web applications with Java, Spring Boot, and JavaScript.
+  
+- 💡 Exploring new technologies and frameworks to expand my skill set.
+  
+- 🌐 Check out my projects below to see what I'm currently learning on Java Full Stack Development.
 
 - 📫 How to reach me **shatabhisha2001@gmail.com**
 
